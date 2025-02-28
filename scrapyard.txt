@@ -1,4 +1,4 @@
 {
   "version": "0.0.1",
-  "notes": "IN DEVELOPMENT"
+  "notes": "matkoo_ is currently developing this"
 }
