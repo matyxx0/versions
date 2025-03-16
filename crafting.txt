@@ -1,4 +1,5 @@
 {
   "version": "2.2.7",
   "notes": "Release"
+  "date": "16.03.2025"
 }
