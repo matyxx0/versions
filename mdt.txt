@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
-  "notes": "Added QB-CORE Support",
-  "date": "20.03.2025"
+  "version": "2.1.0",
+  "notes": "New core, UI and bridge",
+  "date": "28.03.2025"
 }
