@@ -1,0 +1,5 @@
+{
+  "version": "1.5.9",
+  "notes": "New Discord Queue",
+  "date": "29.03.2025"
+}
