@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
-  "notes": "New Discord Queue",
-  "date": "29.03.2025"
+  "version": "1.6.0",
+  "notes": "New Present Card",
+  "date": "31.03.2025"
 }
