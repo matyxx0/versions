@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "notes": "New core, UI and bridge",
-  "date": "28.03.2025"
+  "version": "2.1.1",
+  "notes": "Fixed database logging and more",
+  "date": "08.04.2025"
 }
