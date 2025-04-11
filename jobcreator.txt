@@ -1,4 +1,0 @@
-{
-  "version": "3.2.1",
-  "notes": "Added support for illenium and ox_lib"
-}
