@@ -1,5 +1,5 @@
 {
-  "version": "2.2.9",
-  "notes": "Release",
-  "date": "16.03.2025"
+  "version": "2.2.8",
+  "notes": "Added Version Check Config",
+  "date": "29.04.2025"
 }
