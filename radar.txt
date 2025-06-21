@@ -1,0 +1,5 @@
+{
+  "version": "0.0.1",
+  "notes": "Radars In Development",
+  "date": "21.06.2025"
+}
