@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "notes": "Radars In Development",
-  "date": "21.06.2025"
+  "version": "1.0.2",
+  "notes": "Fixed the mx0_radar UI text and added flash effect",
+  "date": "03.07.2025"
 }
