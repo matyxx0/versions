@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "notes": "Fixed database logging and more",
-  "date": "08.04.2025"
+  "version": "2.1.2",
+  "notes": "Fixed money glitch, added sv-side sync logic",
+  "date": "03.08.2025"
 }
