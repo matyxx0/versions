@@ -1,5 +1,5 @@
 {
   "version": "2.1.2",
-  "notes": "Fixed bug where non-PD could delete criminal record, added sv-side sync logic",
+  "notes": "Fixed bug where non-PD could delete criminal record, added sv-side sync logic, config was not changed. Please update as soon as possible",
   "date": "03.08.2025"
 }
